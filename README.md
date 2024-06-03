@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a project for UW in which we were asked to create a product database using object relational mapping through the sequelize package.  Products can be added, updated or removed from a database using API routes.
+This is a project for UW in which we were asked to create the back end for an e-commerce website using object relational mapping through the sequelize package.  Products can be added, updated or removed from a database using API routes.
 
 ## Installation
 
